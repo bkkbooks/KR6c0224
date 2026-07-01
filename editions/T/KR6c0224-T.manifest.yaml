@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6c0224/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0224/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀想佛母般若波羅蜜多菩薩經
+  identifiers:
+    krp: KR6c0224
+    cbeta: T08n0259
+    cbeta_old_id: T08n0259
+    authorityid: CA0001231
+    json_key: T0259
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0259.xml
+    old_id: T08n0259
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0224_000-T.yaml, hash: 'sha256:167b77a83b33dde4191c9198daee8089accf7269ff37a3f49f28721cef06c0f0'}
+  - {seq: 1, filename: KR6c0224_001-T.yaml, hash: 'sha256:5bd866e1ea2db70e939fed8e626022a2968b5178d816828dbe937be7ae17f9d1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0224_000-T.markers.yaml, hash: 'sha256:9edab4ac2c526d51f6b706c154e99b013a529677a655fb1df583a51e8694f300'}
+  - {seq: 1, role: markers, filename: assets/KR6c0224_001-T.markers.yaml, hash: 'sha256:266176fcdf96f31452e98ce0a217f23c02c10027dda230a68dd82f87caa27ad7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0224_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 804
+  label: '佛說觀想佛母般若波羅蜜多
+
+    菩薩經'
+  type: juan
+  level: 1
+hash: sha256:8728870e6183c2b23affafed2aaa480ca383732fd88a20704edca1fec2d4faa5

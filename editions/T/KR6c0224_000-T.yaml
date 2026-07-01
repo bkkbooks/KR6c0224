@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0224/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀想佛母般若波羅蜜多菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0259.xml
+    old_id: T08n0259
+hash: sha256:167b77a83b33dde4191c9198daee8089accf7269ff37a3f49f28721cef06c0f0
